@@ -75,3 +75,7 @@ DerivedDataCache/*
 Intermediate/CachedAssetRegistry.bin
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/TraumaTeamTrailer.log
+*.png
+*.ini
+*.bin
+*.log
