@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/TraumaTeamTrailer.log
